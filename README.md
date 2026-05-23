@@ -54,5 +54,12 @@ Full stack shopping platform using Java, Spring Boot, React, and MySQL.
 - Email: dhirajkhandagale7179@gmail.com
 
 ---
+---
+
+## 📊 GitHub Stats
+
+![Dhiraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhiraj-khandagale&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhiraj-khandagale&layout=compact&theme=tokyonight)
 
 ⭐ Always learning and building new things.
