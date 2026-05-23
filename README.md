@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi 👋, I'm Dhiraj Khandagale
 
-<!--
-**dhiraj-khandagale/dhiraj-khandagale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Java Full Stack Developer | React Developer | Engineering Student
 
-Here are some ideas to get you started:
+Passionate about building full-stack web applications, machine learning solutions, and smart engineering projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+
+### Languages
+- Java
+- Python
+- JavaScript
+- SQL
+
+### Frontend
+- React.js
+- HTML
+- CSS
+- Bootstrap
+
+### Backend
+- Spring Boot
+- Hibernate
+- REST APIs
+
+### Database
+- MySQL
+
+### Tools & Platforms
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
+
+---
+
+## 📌 Featured Projects
+
+### 🌾 Smart Crop Price Prediction System
+Machine learning-based crop price and profit forecasting system for farmers.
+
+
+### 🛒 E-Commerce Web Application
+Full stack shopping platform using Java, Spring Boot, React, and MySQL.
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://github.com/dhiraj-khandagale
+- Portfolio: 
+- Email: dhirajkhandagale7179@gmail.com
+
+---
+
+⭐ Always learning and building new things.
