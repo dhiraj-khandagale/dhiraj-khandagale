@@ -50,7 +50,7 @@ Full stack shopping platform using Java, Spring Boot, React, and MySQL.
 ## 📫 Connect With Me
 
 - LinkedIn: https://github.com/dhiraj-khandagale
-- Portfolio: 
+- Portfolio: https://dhirajk-portfolio.vercel.app/
 - Email: dhirajkhandagale7179@gmail.com
 
 ---
